@@ -1,10 +1,8 @@
 # Desenvolvimento-WEB-1
 atividades de WEB 1, em HTML
 
-###nome:
-Joycine silva de Sousa
 
-# O que vai estar amarzenado?
+# O que vai ter armazenado aqui?
 Aqui estar os links das atividades proposta pelo professor. Estaram as atividades de 1 a 14.
 
 ## Link das atividades a baixo:
