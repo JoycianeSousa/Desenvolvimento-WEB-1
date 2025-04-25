@@ -1,5 +1,5 @@
 # Desenvolvimento-WEB-1
-atividades de WEB 1, em HTML
+NOME=Joyciane Silva de Sousa
 
 
 # O que vai ter armazenado aqui?
